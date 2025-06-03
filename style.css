@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background-color:  #1b1b32;
+    color:white;
+    font-size: 1.5em;
+}
+#container{
+    width:auto;
+    height:auto;
+}
+
+button{
+    font-size:1.5em;
+    text-align: center;
+    width:fit-content;
+    height:fit-content;
+    border-radius: 15px;
+    border: solid white;
+    background-color: blue;
+}
